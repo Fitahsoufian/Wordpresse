@@ -1,0 +1,44 @@
+2021-06-03T10:52:48+00:00 ERROR Error getting remote inbox notification data feed
+2021-06-03T10:52:48+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 28: Operation timed out after 5011 milliseconds with 2119 out of 4217 bytes received
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2021-06-03T10:52:53+00:00 ERROR Error getting remote inbox notification data feed
+2021-06-03T10:52:53+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 28: Operation timed out after 5014 milliseconds with 0 out of 0 bytes received
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
