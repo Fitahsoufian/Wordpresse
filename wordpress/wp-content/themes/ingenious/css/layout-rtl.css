@@ -1,0 +1,6 @@
+#page > .ingenious_layout_container{
+    direction: ltr;
+}
+#page > .ingenious_layout_container > *{
+    direction: rtl;
+}
